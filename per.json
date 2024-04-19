@@ -1,0 +1,13 @@
+{
+    "ratio": 0.4,
+    "motion": {
+        "cluster": {
+            "ra": -0.63,
+            "dec": -1.15
+        },
+        "background": {
+            "ra": 1.53,
+            "dec": 2.05
+        }
+    }
+}
